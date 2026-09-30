@@ -1,4 +1,4 @@
-# Normal Technology, Normal Politics and Why That Should Worry Us
+# Normal Technology, Normal Politics
 
 ## A response to Narayanan & Kapoor, "AI as Normal Technology" (2025)
 
